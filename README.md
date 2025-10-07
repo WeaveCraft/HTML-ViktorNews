@@ -19,4 +19,4 @@ Projektet är en övning i att bygga en enkel webbsida med:
 - **Header och navigationsmeny**
 - **Sidopanel (sidebar)**
 - **Huvudinnehåll**
-- **Footer som alltid ligger längst ned på sidan**
+- **Footer**
